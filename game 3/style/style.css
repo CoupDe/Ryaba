@@ -1,0 +1,11 @@
+.header-row{
+  text-align: center;
+}
+.form-control{
+ 
+ max-width: 500px;
+ display: inline-block;
+ vertical-align: middle;
+ height: calc(2.7em + .5rem + 2px);
+}
+
